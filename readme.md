@@ -1,5 +1,6 @@
 This is a simple event emitter implementation that enhances any existing object to be an event emitter.
 
+```
   Evented is a module that
     can create a new evented object
         ✓ from no parameter
@@ -12,6 +13,7 @@ This is a simple event emitter implementation that enhances any existing object 
       ✓ event can pass custom information
       ✓ has once
       ✓ can disable observers
+```
 
 ```javascript
 const evented = require('dgaya_evented');
