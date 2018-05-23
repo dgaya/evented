@@ -1,5 +1,5 @@
 {
-  "name": "evented",
+  "name": "dgaya_evented",
   "version": "0.0.1",
   "description": "",
   "main": "test/evented.js",
