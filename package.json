@@ -23,6 +23,6 @@
     "event-emitter": "^0.3.5"
   },
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^10.1.0"
   }
 }
